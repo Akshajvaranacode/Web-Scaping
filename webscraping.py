@@ -3,5 +3,4 @@ def greet(name):
 def age(age):
 	print('oh! you are %s years old'%(age))
 
-greet('akshaj')
-age(5)
+
